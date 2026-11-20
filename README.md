@@ -1,4 +1,6 @@
 [README.md](https://github.com/user-attachments/files/35121781/README.md)
+[Uploading vector-seamless-forest-illustration-with-mountains-background-horizontally-repeatable.zip…]()
+
 # ¡Hola! Soy Kora 👋
 
 Soy estudiante de ingeniería apasionada por el diseño —o eso creo, aún estoy descubriendo qué se me da mejor—. Actualmente me enfoco en construir soluciones prácticas y seguir aprendiendo nuevas tecnologías mientras avanzo con mis clases.
