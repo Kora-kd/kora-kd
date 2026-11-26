@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/35121781/README.md)
 <img width="6800" height="2896" alt="8fb8f92b-6700-4d3d-962c-b54a93552b9a" src="https://github.com/user-attachments/assets/2af0af22-cf8c-4832-b7c3-77f58e766b49" />
 
-
+    
 # ¡Hola! Soy Kora 👋
 
 Soy estudiante de ingeniería apasionada por el diseño —o eso creo, aún estoy descubriendo qué se me da mejor—. Actualmente me enfoco en construir soluciones prácticas y seguir aprendiendo nuevas tecnologías mientras avanzo con mis clases.
